@@ -1,5 +1,4 @@
-<h1 align="center">Profile Thanh Dat</h1>
-<h3 align="center">Developer Fullstack</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhdatdev&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdatdev" /> </p>
 
